@@ -1,12 +1,13 @@
-## E-Shop-Api
+<h1> E-Shop-Api </h1>
 
-*Tech Stack*
+
+## Tech Stack
   - MongoDB
   - Mongoose
   - NodeJs
   - ExpressJS
 
-*Features*
+## Features
 App has the following apis.
   - Create Products
   - Delete products
